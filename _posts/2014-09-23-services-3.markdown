@@ -1,0 +1,8 @@
+---
+layout: default
+img: Print-design.png
+category: Services
+title: Print Design
+description: |
+---
+Whether it's a large mesh or a simple invitation (wedding, baptism), we can offer you <strong>a unique design</strong> according to your requirements.
