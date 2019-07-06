@@ -29,7 +29,10 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/HeroArea4.png) no-repeat center center;
+}
+
+.bg {
+    background: url(../img/header.png) no-repeat center center;
     background-size: cover;
 }
 
