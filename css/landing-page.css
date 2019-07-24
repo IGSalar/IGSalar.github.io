@@ -20,7 +20,11 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-.navbar-brand {
+/* .navbar-brand {
+    margin-top: 10px;
+} */
+
+.navbar-brand page-scroll {
     margin-top: 10px;
 }
 
